@@ -2,7 +2,7 @@
 
 
 all :
-	make -C ./gcc
+	#make -C ./gcc
 	make -C ./libsrc
 	make -C ./example
 

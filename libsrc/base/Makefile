@@ -1,6 +1,6 @@
 # This makefile to make jz4740 baselib
 
-CROSS = /opt/mipsel-4.1.2-nopic/bin/
+CROSS =# /opt/mipsel-4.1.2-nopic/bin/
 CC = $(CROSS)mipsel-linux-gcc
 AR = $(CROSS)mipsel-linux-ar rcsv
 
